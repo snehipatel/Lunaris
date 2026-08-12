@@ -13,6 +13,13 @@ dist-ssr
 .vite
 *.local
 
+# Large Binary Data Archives & Geotiffs
+*.zip
+*.tif
+*.tiff
+*.xlsx
+~$*
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
