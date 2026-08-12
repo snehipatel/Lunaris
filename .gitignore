@@ -13,12 +13,13 @@ dist-ssr
 .vite
 *.local
 
-# Large Binary Data Archives & Geotiffs
+# Large Binary Data Archives, Geotiffs & Raw Orbit Dirs
 *.zip
 *.tif
 *.tiff
 *.xlsx
 ~$*
+Data/ch2_sar_ncxl_*
 
 # Editor directories and files
 .vscode/*
